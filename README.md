@@ -2,4 +2,3 @@
 
 big ass wip 😢😢😢😢😢😢😢
 ![](https://i.postimg.cc/RFLtVfmv/Untitled193-20260815005055.png)
-![](https://tenor.com/view/jack-frost-rotg-wait-rise-of-the-guardians-gif-8030595)
