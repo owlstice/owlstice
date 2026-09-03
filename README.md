@@ -3,4 +3,13 @@
 ![](https://file.garden/aoHIzmzAB0rGVG_K/4b5330008d1b1a1acc54fd10082d0188.gif)
 <img src="https://file.garden/aoHIzmzAB0rGVG_K/684db67172e9db52deef4aa8c7ed149b.gif" width="150" align="left">
 <img src="https://file.garden/aoHIzmzAB0rGVG_K/Untitled195_20260903152439.png" width="170" align="right">
-[![main fluffle](https://file.garden/aoHIzmzAB0rGVG_K/Untitled195_20260903152712.png)](https://fluffle.cc/jackfrost)
+ㅤ
+ㅤ
+ㅤㅤ
+ㅤ
+<a href="https://fluffle.cc/jackfrost">
+  <img src="https://file.garden/aoHIzmzAB0rGVG_K/Untitled195_20260903152712.png" alt="main fluffle" width="180" />
+</a>
+<a href="https://fluffle.cc/cayleb">
+  <img src="https://file.garden/aoHIzmzAB0rGVG_K/Untitled195_20260903152712.png" alt="url collection" width="180" />
+</a>
