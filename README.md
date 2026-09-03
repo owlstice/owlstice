@@ -1,6 +1,5 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=your-owlstice&color=8F501B&label=hopscotch+⋆˙)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=your-owlstice&color=2171B5&label=snowdays+⋆˙)
 
-![](https://i.postimg.cc/RFLtVfmv/Untitled193-20260815005055.png)
-![](https://file.garden/aoHIzmzAB0rGVG_K/171481663078353414-35.gif)
-<img src="https://file.garden/aoHIzmzAB0rGVG_K/jack-frost-rotg.gif" width="180" align="left">
+![](https://file.garden/aoHIzmzAB0rGVG_K/4b5330008d1b1a1acc54fd10082d0188.gif)
+<img src="https://file.garden/aoHIzmzAB0rGVG_K/684db67172e9db52deef4aa8c7ed149b.gif" width="180" align="left">
 ㅤㅤㅤㅤwip
