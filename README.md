@@ -8,8 +8,6 @@
 ㅤㅤ
 ㅤ
 <a href="https://fluffle.cc/jackfrost">
-  <img src="https://file.garden/aoHIzmzAB0rGVG_K/Untitled195_20260903152712.png" alt="main fluffle" width="180" />
-</a>
+  <img src="https://file.garden/aoHIzmzAB0rGVG_K/Untitled195_20260903152712.png" alt="main fluffle" width="200" align="left" />
 <a href="https://fluffle.cc/cayleb">
-  <img src="https://file.garden/aoHIzmzAB0rGVG_K/Untitled195_20260903152712.png" alt="url collection" width="180" />
-</a>
+  <img src="https://file.garden/aoHIzmzAB0rGVG_K/Untitled195_20260903152849.png" alt="url collection" width="200" align="right" />
