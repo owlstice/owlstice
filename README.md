@@ -11,3 +11,5 @@
   <img src="https://file.garden/aoHIzmzAB0rGVG_K/Untitled195_20260903152712.png" alt="main fluffle" width="200" align="left" />
 <a href="https://fluffle.cc/cayleb">
   <img src="https://file.garden/aoHIzmzAB0rGVG_K/Untitled195_20260903152849.png" alt="url collection" width="200" align="right" />
+  
+![](https://file.garden/aoHIzmzAB0rGVG_K/e71984afe24df212a59582e8295ba61d.gif)
